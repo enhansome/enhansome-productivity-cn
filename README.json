@@ -1,242 +1,246 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "提示：可访问本单的官方文档，获得更便捷的阅读体验"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "在线课程"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": "工欲善其事必先利其器，在寻找称手兵器之前，请阅读：工具癖患者的表现及自我修养",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Topydo",
+              "description": "使用 todo.txt 格式的强大的待办事项列表应用程序，位于 todo.txt CLI 和 Taskwarrior 之间。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25428376,
+                "language": "Python",
+                "last_commit": "2026-03-18T03:38:43Z",
+                "owner": "topydo",
+                "repo": "topydo",
+                "stars": 935
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pomolectron",
+              "description": "菜单栏/托盘的番茄钟应用程序。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84988277,
+                "language": "JavaScript",
+                "last_commit": "2025-01-28T19:08:37Z",
+                "owner": "amitmerchant1990",
+                "repo": "pomolectron",
+                "stars": 639
+              }
+            }
+          ],
+          "description": "项目规划管理，敏捷高效地完成个人任务。",
+          "node_type": "group",
+          "title": "任务管理"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Flow Launcher",
+              "description": "(Win) - Listary 的开源替代品，开发活跃插件众多，例如可调用 Everything 快速搜索文件、可自定义网络搜索引擎等。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257526212,
+                "language": "C#",
+                "last_commit": "2026-08-18T12:14:55Z",
+                "owner": "Flow-Launcher",
+                "repo": "Flow.Launcher",
+                "stars": 15388
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Playnite",
+              "description": "(Win) - 将众多游戏平台和模拟器平台全合一的数据库式开源游戏管理启动器，开发活跃插件众多，例如可借助Flow Launcher快速启动游戏。理论上也可用于管理本地软件。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86182490,
+                "language": "C#",
+                "last_commit": "2026-08-17T12:03:12Z",
+                "owner": "JosefNemec",
+                "repo": "Playnite",
+                "stars": 13777
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lutris",
+              "description": "(Linux) - 类似于 Playnite（侧重稍有不同）但更悠久，且作为 Linux 上的开源软件，还同时集成了 Wine 的功能。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13419223,
+                "language": "Python",
+                "last_commit": "2026-08-17T19:45:02Z",
+                "owner": "lutris",
+                "repo": "lutris",
+                "stars": 10151
+              }
+            }
+          ],
+          "description": "启动器让你输入简单的命令就可执行一系列操作",
+          "node_type": "group",
+          "title": "启动器"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KeePassXC",
+              "description": "(跨平台) - 作为老牌 Win 平台软件 KeePass 的美化 + 跨平台版，与前者一样开源，采用*.kdbx 数据库文件但采用 4.0 标准。支持各主流浏览器插件方便随时调用。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52729242,
+                "language": "C++",
+                "last_commit": "2026-08-12T19:03:37Z",
+                "owner": "keepassxreboot",
+                "repo": "keepassxc",
+                "stars": 28447
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "花蜜",
+              "description": "使用两个有意义的片段来生成密码，方便记忆和找回。 使用方法见讨论",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 397672812,
+                "language": null,
+                "last_commit": "2022-08-08T04:06:16Z",
+                "owner": "eastlakeside",
+                "repo": "awesome-productivity-cn",
+                "stars": 2813
+              }
+            }
+          ],
+          "description": "节省记密码和找密码的时间",
+          "node_type": "group",
+          "title": "密码管理"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OBS Studio",
+              "description": "(跨平台) - 口碑积淀最深厚（没有之一）的强大开源录屏工具。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13233158,
+                "language": "C",
+                "last_commit": "2026-08-15T00:34:08Z",
+                "owner": "obsproject",
+                "repo": "obs-studio",
+                "stars": 75195
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ScreenToGif",
+              "description": "一款录屏为 GIF 的工具，仅支持 Windows。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64713769,
+                "language": "C#",
+                "last_commit": "2026-07-28T17:52:48Z",
+                "owner": "NickeManarin",
+                "repo": "ScreenToGif",
+                "stars": 27506
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Krita",
+              "description": "在绘画方面替代甚至超越 Photoshop 的优秀开源软件。著名开源社区 KDE 的作品之一。也可用于制作动画。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43975673,
+                "language": "C++",
+                "last_commit": "2026-08-19T03:26:36Z",
+                "owner": "KDE",
+                "repo": "krita",
+                "stars": 10235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gimp",
+              "description": "能够在图像处理方面替代 Photoshop 的优秀开源软件。著名开源社区 GNOME 的作品之一。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4537508,
+                "language": "C",
+                "last_commit": "2026-08-19T08:14:59Z",
+                "owner": "GNOME",
+                "repo": "gimp",
+                "stars": 6369
+              }
+            }
+          ],
+          "description": "即使不是设计师/摄影师/动画师等，图像处理可能也是必备技能。",
+          "node_type": "group",
+          "title": "静/动图像"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "scrcpy",
+              "description": "(Win) - 通过有线或无线安卓调试桥在电脑上查看并操作手机屏幕的开源工具。很多的所谓同类产品实际上是它的套壳。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111583593,
+                "language": "C",
+                "last_commit": "2026-08-17T10:27:07Z",
+                "owner": "Genymobile",
+                "repo": "scrcpy",
+                "stars": 147906
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bartender",
+              "description": "Macos 菜单栏图标管理，建议购买setapp应用包，性价比更高，或者试试更为小巧的开源产品Dozer。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150961965,
+                "language": "Swift",
+                "last_commit": "2023-11-30T13:45:27Z",
+                "owner": "Mortennn",
+                "repo": "Dozer",
+                "stars": 8714
+              }
+            }
+          ],
+          "description": "一些暂时没有归类的生产力",
+          "node_type": "group",
+          "title": "其他杂项"
+        }
+      ],
       "title": "工具和应用"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Topydo",
-          "description": "使用 todo.txt 格式的强大的待办事项列表应用程序，位于 todo.txt CLI 和 Taskwarrior 之间。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T03:38:43Z",
-            "owner": "topydo",
-            "repo": "topydo",
-            "stars": 935
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pomolectron",
-          "description": "菜单栏/托盘的番茄钟应用程序。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-01-28T19:08:37Z",
-            "owner": "amitmerchant1990",
-            "repo": "pomolectron",
-            "stars": 639
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GitHub Projects",
-          "description": "GitHub 的项目功能，可以轻松地将您的项目管理过程与您的代码联系起来。",
-          "children": []
-        }
-      ],
-      "title": "任务管理"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Flow Launcher",
-          "description": "(Win) - Listary 的开源替代品，开发活跃插件众多，例如可调用 Everything 快速搜索文件、可自定义网络搜索引擎等。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-18T12:14:55Z",
-            "owner": "Flow-Launcher",
-            "repo": "Flow.Launcher",
-            "stars": 15382
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Playnite",
-          "description": "(Win) - 将众多游戏平台和模拟器平台全合一的数据库式开源游戏管理启动器，开发活跃插件众多，例如可借助Flow Launcher快速启动游戏。理论上也可用于管理本地软件。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T12:03:12Z",
-            "owner": "JosefNemec",
-            "repo": "Playnite",
-            "stars": 13773
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lutris",
-          "description": "(Linux) - 类似于 Playnite（侧重稍有不同）但更悠久，且作为 Linux 上的开源软件，还同时集成了 Wine 的功能。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T19:45:02Z",
-            "owner": "lutris",
-            "repo": "lutris",
-            "stars": 10148
-          }
-        }
-      ],
-      "title": "启动器"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "KeePassXC",
-          "description": "(跨平台) - 作为老牌 Win 平台软件 KeePass 的美化 + 跨平台版，与前者一样开源，采用*.kdbx 数据库文件但采用 4.0 标准。支持各主流浏览器插件方便随时调用。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-12T19:03:37Z",
-            "owner": "keepassxreboot",
-            "repo": "keepassxc",
-            "stars": 28441
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "花蜜",
-          "description": "使用两个有意义的片段来生成密码，方便记忆和找回。 使用方法见讨论",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-08-08T04:06:16Z",
-            "owner": "eastlakeside",
-            "repo": "awesome-productivity-cn",
-            "stars": 2813
-          }
-        }
-      ],
-      "title": "密码管理"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OBS Studio",
-          "description": "(跨平台) - 口碑积淀最深厚（没有之一）的强大开源录屏工具。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-15T00:34:08Z",
-            "owner": "obsproject",
-            "repo": "obs-studio",
-            "stars": 75157
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ScreenToGif",
-          "description": "一款录屏为 GIF 的工具，仅支持 Windows。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-28T17:52:48Z",
-            "owner": "NickeManarin",
-            "repo": "ScreenToGif",
-            "stars": 27497
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Krita",
-          "description": "在绘画方面替代甚至超越 Photoshop 的优秀开源软件。著名开源社区 KDE 的作品之一。也可用于制作动画。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T03:27:25Z",
-            "owner": "KDE",
-            "repo": "krita",
-            "stars": 10232
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gimp",
-          "description": "能够在图像处理方面替代 Photoshop 的优秀开源软件。著名开源社区 GNOME 的作品之一。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T19:20:45Z",
-            "owner": "GNOME",
-            "repo": "gimp",
-            "stars": 6363
-          }
-        }
-      ],
-      "title": "静/动图像"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "scrcpy",
-          "description": "(Win) - 通过有线或无线安卓调试桥在电脑上查看并操作手机屏幕的开源工具。很多的所谓同类产品实际上是它的套壳。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T10:27:07Z",
-            "owner": "Genymobile",
-            "repo": "scrcpy",
-            "stars": 147866
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bartender",
-          "description": "Macos 菜单栏图标管理，建议购买setapp应用包，性价比更高，或者试试更为小巧的开源产品Dozer。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-11-30T13:45:27Z",
-            "owner": "Mortennn",
-            "repo": "Dozer",
-            "stars": 8716
-          }
-        }
-      ],
-      "title": "其他杂项"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:45:15.519Z",
+    "last_updated": "2026-08-19T12:45:49.143Z",
     "original_repository": "eastlakeside/awesome-productivity-cn",
+    "original_repository_id": 397672812,
     "original_repository_sha": "395c7bd7cbfa383d2bac5ef22e957966b82503a7",
     "enhanced_repository": "enhansome/enhansome-productivity-cn",
     "enhanced_repository_description": null,
