@@ -1,6 +1,6 @@
 # 绝妙的个人生产力（Awesome Productivity 中文版） with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,612 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,952 | 🐛 106 | 📅 2026-08-21
 
 > 这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。
 >
@@ -130,7 +130,7 @@
 * [Everyday](https://everyday.app/) – 通过每天做事来养成新习惯。
 * [Habitica](https://habitica.com) – 在角色扮演游戏中完成你现实生活中的日常目标。（以前称为 *HabitRPG*）。
 * [HabitBull](http://www.habitbull.com/) – 高级习惯追踪器。
-* [Loop Habit Tracker](https://github.com/iSoron/uhabits) ⭐ 10,153 | 🐛 49 | 🌐 Kotlin | 📅 2026-07-21 – 一个用于创建和保持良好习惯的 Android 应用程序。
+* [Loop Habit Tracker](https://github.com/iSoron/uhabits) ⭐ 10,157 | 🐛 49 | 🌐 Kotlin | 📅 2026-07-21 – 一个用于创建和保持良好习惯的 Android 应用程序。
 * [Waka Time](https://wakatime.com/) –  开源插件，用于准确了解你编程花费的时间。
 
 ### 任务自动化
@@ -142,15 +142,15 @@
 * [Qbserve](https://qotoqot.com/qbserve/) – Mac 时间跟踪自动化：自由项目跟踪、时间表、实时生产力反馈。
 * [Tasker](http://tasker.dinglisch.net/) – Android 应用程序，可以执行上下文敏感的自定义任务（\_例如\_当你到家时自动打开 wifi）。
 * [Zapier](https://zapier.com/) – 自动化工具，允许您连接数百个 Web 服务并在流程之间创建自动化。
-* [AutoHotKey](https://github.com/Lexikos/AutoHotkey_L) ⭐ 12,982 | 🐛 22 | 🌐 C++ | 📅 2026-08-16(*Win*) - 即大名鼎鼎的 AHK，优秀**开源**的自动化软件，时常会在别的地方见到他人分享的 AHK 宏脚本。
+* [AutoHotKey](https://github.com/Lexikos/AutoHotkey_L) ⭐ 12,995 | 🐛 22 | 🌐 C++ | 📅 2026-08-16(*Win*) - 即大名鼎鼎的 AHK，优秀**开源**的自动化软件，时常会在别的地方见到他人分享的 AHK 宏脚本。
 
 ### 启动器
 
 > 启动器让你输入简单的命令就可执行一系列操作
 
-* [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) ⭐ 15,399 | 🐛 302 | 🌐 C# | 📅 2026-08-21(*Win*) - Listary 的**开源**替代品，开发活跃插件众多，例如可调用 Everything 快速搜索文件、可自定义网络搜索引擎等。
-* [Playnite](https://github.com/JosefNemec/Playnite) ⭐ 13,798 | 🐛 706 | 🌐 C# | 📅 2026-08-21(*Win*) - 将众多游戏平台和模拟器平台全合一的数据库式**开源**游戏管理启动器，开发活跃插件众多，例如可借助**Flow Launcher**快速启动游戏。理论上也可用于管理本地软件。
-* [Lutris](https://github.com/lutris/lutris) ⭐ 10,158 | 🐛 295 | 🌐 Python | 📅 2026-08-21(*Linux*) - 类似于 Playnite（侧重稍有不同）但更悠久，且作为 Linux 上的**开源**软件，还同时集成了 Wine 的功能。
+* [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) ⭐ 15,401 | 🐛 302 | 🌐 C# | 📅 2026-08-21(*Win*) - Listary 的**开源**替代品，开发活跃插件众多，例如可调用 Everything 快速搜索文件、可自定义网络搜索引擎等。
+* [Playnite](https://github.com/JosefNemec/Playnite) ⭐ 13,802 | 🐛 707 | 🌐 C# | 📅 2026-08-21(*Win*) - 将众多游戏平台和模拟器平台全合一的数据库式**开源**游戏管理启动器，开发活跃插件众多，例如可借助**Flow Launcher**快速启动游戏。理论上也可用于管理本地软件。
+* [Lutris](https://github.com/lutris/lutris) ⭐ 10,165 | 🐛 298 | 🌐 Python | 📅 2026-08-22(*Linux*) - 类似于 Playnite（侧重稍有不同）但更悠久，且作为 Linux 上的**开源**软件，还同时集成了 Wine 的功能。
 * [Alfred](https://www.alfredapp.com/)(*Mac*) - 老牌启动器。
 * [utools](https://u.tools/)(*跨平台*) - spotlight 类应用，具有良好扩展性。
 * [raycast](https://www.raycast.com/)(*Mac*) - 类似于Alfred，是一个速度惊人、完全可扩展的启动器。它可以让你完成任务，计算，分享共同的链接，以及更多。
@@ -160,7 +160,7 @@
 
 > 节省记密码和找密码的时间
 
-* [KeePassXC](https://github.com/keepassxreboot/keepassxc) ⭐ 28,480 | 🐛 898 | 🌐 C++ | 📅 2026-08-12(*跨平台*) - 作为老牌 Win 平台软件 KeePass 的美化 + 跨平台版，与前者一样**开源**，采用\*.kdbx 数据库文件但采用 4.0 标准。支持各主流浏览器插件方便随时调用。
+* [KeePassXC](https://github.com/keepassxreboot/keepassxc) ⭐ 28,489 | 🐛 900 | 🌐 C++ | 📅 2026-08-12(*跨平台*) - 作为老牌 Win 平台软件 KeePass 的美化 + 跨平台版，与前者一样**开源**，采用\*.kdbx 数据库文件但采用 4.0 标准。支持各主流浏览器插件方便随时调用。
 * [花蜜](https://shansing.com/passwords/) - 使用两个有意义的片段来生成密码，方便记忆和找回。 [使用方法见讨论](https://github.com/eastlakeside/awesome-productivity-cn/issues/7) ⭐ 2,813 | 🐛 14 | 📅 2022-08-08
 * [LastPass](https://lastpass.com) – 一站式云端存放管理密码的工具。
 * [pass](https://www.passwordstore.org/) – 一款极简的密码管理工具，bash 实现。可以非常方便地和其它工具结合，如 git。
@@ -170,10 +170,10 @@
 
 > 即使不是设计师/摄影师/动画师等，图像处理可能也是必备技能。
 
-* [OBS Studio](https://github.com/obsproject/obs-studio) ⭐ 75,279 | 🐛 1,162 | 🌐 C | 📅 2026-08-21(*跨平台*) - 口碑积淀最深厚（没有之一）的强大**开源**录屏工具。
-* [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) ⭐ 27,530 | 🐛 329 | 🌐 C# | 📅 2026-07-28 - 一款录屏为 GIF 的工具，仅支持 Windows。
-* [Krita](https://github.com/KDE/krita) ⭐ 10,244 | 🐛 0 | 🌐 C++ | 📅 2026-08-21 - 在绘画方面替代甚至超越 Photoshop 的优秀**开源**软件。著名开源社区 KDE 的作品之一。也可用于制作动画。
-* [Gimp](https://github.com/GNOME/gimp) ⭐ 6,370 | 🐛 0 | 🌐 C | 📅 2026-08-21 - 能够在图像处理方面替代 Photoshop 的优秀**开源**软件。著名开源社区 GNOME 的作品之一。
+* [OBS Studio](https://github.com/obsproject/obs-studio) ⭐ 75,318 | 🐛 1,161 | 🌐 C | 📅 2026-08-22(*跨平台*) - 口碑积淀最深厚（没有之一）的强大**开源**录屏工具。
+* [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) ⭐ 27,534 | 🐛 329 | 🌐 C# | 📅 2026-07-28 - 一款录屏为 GIF 的工具，仅支持 Windows。
+* [Krita](https://github.com/KDE/krita) ⭐ 10,251 | 🐛 0 | 🌐 C++ | 📅 2026-08-22 - 在绘画方面替代甚至超越 Photoshop 的优秀**开源**软件。著名开源社区 KDE 的作品之一。也可用于制作动画。
+* [Gimp](https://github.com/GNOME/gimp) ⭐ 6,369 | 🐛 0 | 🌐 C | 📅 2026-08-22 - 能够在图像处理方面替代 Photoshop 的优秀**开源**软件。著名开源社区 GNOME 的作品之一。
 * [Inkscape](https://inkscape.org/) - 强大**开源**的矢量图处理软件。
 * [Blender](https://www.blender.org/) - 强大**开源**的三维模型与动画软件。面向个人的教程充足易上手的同时，也被工作室用于制作电影。
 * [Snipaste](https://zh.snipaste.com/) - 最简洁高效的截图工具，没有之一。
@@ -191,8 +191,8 @@
 
 > 一些暂时没有归类的生产力
 
-* [scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 148,038 | 🐛 2,882 | 🌐 C | 📅 2026-08-17(*Win*) - 通过有线或无线安卓调试桥在电脑上查看并操作手机屏幕的**开源**工具。很多的所谓同类产品实际上是它的套壳。
-* [Bartender](https://www.macbartender.com/) - Macos 菜单栏图标管理，建议购买[setapp](https://setapp.com/)应用包，性价比更高，或者试试更为小巧的开源产品[Dozer](https://github.com/Mortennn/Dozer) ⭐ 8,712 | 🐛 101 | 🌐 Swift | 📅 2023-11-30。
+* [scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 148,083 | 🐛 2,882 | 🌐 C | 📅 2026-08-17(*Win*) - 通过有线或无线安卓调试桥在电脑上查看并操作手机屏幕的**开源**工具。很多的所谓同类产品实际上是它的套壳。
+* [Bartender](https://www.macbartender.com/) - Macos 菜单栏图标管理，建议购买[setapp](https://setapp.com/)应用包，性价比更高，或者试试更为小巧的开源产品[Dozer](https://github.com/Mortennn/Dozer) ⭐ 8,713 | 🐛 101 | 🌐 Swift | 📅 2023-11-30。
 * [Mathpix Snip](https://mathpix.com/) - 复杂数学公式识别工具 (OCR)，论文、写作的绝佳助力。
 * [tools.fun](https://tools.fun/index.html) - 程序员实用小工具大合集。
 * [uTools](https://u.tools/) - 你的生产力工具集。
@@ -201,4 +201,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
