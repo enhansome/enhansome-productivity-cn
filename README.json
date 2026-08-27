@@ -98,7 +98,7 @@
                 "last_commit": "2026-07-21T12:59:15Z",
                 "owner": "iSoron",
                 "repo": "uhabits",
-                "stars": 10168
+                "stars": 10170
               }
             }
           ],
@@ -142,7 +142,7 @@
                 "last_commit": "2026-08-26T19:40:20Z",
                 "owner": "Flow-Launcher",
                 "repo": "Flow.Launcher",
-                "stars": 15440
+                "stars": 15443
               }
             },
             {
@@ -157,7 +157,7 @@
                 "last_commit": "2026-08-21T19:37:28Z",
                 "owner": "JosefNemec",
                 "repo": "Playnite",
-                "stars": 13830
+                "stars": 13834
               }
             },
             {
@@ -194,7 +194,7 @@
                 "last_commit": "2026-08-24T16:37:46Z",
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28549
+                "stars": 28557
               }
             },
             {
@@ -231,7 +231,7 @@
                 "last_commit": "2026-08-26T18:05:18Z",
                 "owner": "obsproject",
                 "repo": "obs-studio",
-                "stars": 75480
+                "stars": 75507
               }
             },
             {
@@ -246,7 +246,7 @@
                 "last_commit": "2026-07-28T17:52:48Z",
                 "owner": "NickeManarin",
                 "repo": "ScreenToGif",
-                "stars": 27552
+                "stars": 27557
               }
             },
             {
@@ -258,10 +258,10 @@
                 "archived": false,
                 "id": 43975673,
                 "language": "C++",
-                "last_commit": "2026-08-26T08:54:53Z",
+                "last_commit": "2026-08-27T04:00:12Z",
                 "owner": "KDE",
                 "repo": "krita",
-                "stars": 10268
+                "stars": 10271
               }
             },
             {
@@ -273,7 +273,7 @@
                 "archived": false,
                 "id": 4537508,
                 "language": "C",
-                "last_commit": "2026-08-26T16:48:32Z",
+                "last_commit": "2026-08-27T02:14:43Z",
                 "owner": "GNOME",
                 "repo": "gimp",
                 "stars": 6378
@@ -298,7 +298,7 @@
                 "last_commit": "2026-08-17T10:27:07Z",
                 "owner": "Genymobile",
                 "repo": "scrcpy",
-                "stars": 148332
+                "stars": 148366
               }
             },
             {
@@ -313,7 +313,7 @@
                 "last_commit": "2023-11-30T13:45:27Z",
                 "owner": "Mortennn",
                 "repo": "Dozer",
-                "stars": 8713
+                "stars": 8716
               }
             }
           ],
@@ -326,9 +326,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:47:26.552Z",
-    "original_repository": "eastlakeside/awesome-productivity-cn",
-    "original_repository_id": 397672812,
+    "last_updated": "2026-08-27T11:59:07.451Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 397672812,
+      "language": null,
+      "last_commit": "2022-08-08T04:06:16Z",
+      "owner": "eastlakeside",
+      "repo": "awesome-productivity-cn",
+      "stars": 2816
+    },
     "original_repository_sha": "395c7bd7cbfa383d2bac5ef22e957966b82503a7",
     "enhanced_repository": "enhansome/enhansome-productivity-cn",
     "enhanced_repository_description": null,
