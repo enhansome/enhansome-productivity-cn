@@ -18,7 +18,8 @@
                 "owner": "hsbalar",
                 "repo": "preserver",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             }
           ],
           "description": "主要功能是把想法记下来，有了想法才能输出",
@@ -40,7 +41,8 @@
                 "owner": "hobbes-ye",
                 "repo": "NodeNote",
                 "stars": 323
-              }
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             }
           ],
           "description": null,
@@ -61,8 +63,9 @@
                 "last_commit": "2026-03-18T03:38:43Z",
                 "owner": "topydo",
                 "repo": "topydo",
-                "stars": 934
-              }
+                "stars": 933
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             },
             {
               "node_type": "item",
@@ -77,7 +80,8 @@
                 "owner": "amitmerchant1990",
                 "repo": "pomolectron",
                 "stars": 639
-              }
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             }
           ],
           "description": "项目规划管理，敏捷高效地完成个人任务。",
@@ -98,8 +102,9 @@
                 "last_commit": "2026-07-21T12:59:15Z",
                 "owner": "iSoron",
                 "repo": "uhabits",
-                "stars": 10170
-              }
+                "stars": 10171
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             }
           ],
           "description": "习惯是有动量惯性势头的，一旦培养起来，会产生飞轮效应。",
@@ -120,8 +125,9 @@
                 "last_commit": "2026-08-16T08:29:37Z",
                 "owner": "AutoHotkey",
                 "repo": "AutoHotkey",
-                "stars": 13017
-              }
+                "stars": 13020
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             }
           ],
           "description": "自动化会让生产力再度飞跃",
@@ -142,8 +148,9 @@
                 "last_commit": "2026-08-26T19:40:20Z",
                 "owner": "Flow-Launcher",
                 "repo": "Flow.Launcher",
-                "stars": 15443
-              }
+                "stars": 15446
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             },
             {
               "node_type": "item",
@@ -157,8 +164,9 @@
                 "last_commit": "2026-08-21T19:37:28Z",
                 "owner": "JosefNemec",
                 "repo": "Playnite",
-                "stars": 13834
-              }
+                "stars": 13838
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             },
             {
               "node_type": "item",
@@ -172,8 +180,9 @@
                 "last_commit": "2026-08-22T21:07:38Z",
                 "owner": "lutris",
                 "repo": "lutris",
-                "stars": 10196
-              }
+                "stars": 10200
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             }
           ],
           "description": "启动器让你输入简单的命令就可执行一系列操作",
@@ -194,8 +203,9 @@
                 "last_commit": "2026-08-24T16:37:46Z",
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28557
-              }
+                "stars": 28573
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             },
             {
               "node_type": "item",
@@ -210,7 +220,8 @@
                 "owner": "eastlakeside",
                 "repo": "awesome-productivity-cn",
                 "stars": 2816
-              }
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             }
           ],
           "description": "节省记密码和找密码的时间",
@@ -231,8 +242,9 @@
                 "last_commit": "2026-08-26T18:05:18Z",
                 "owner": "obsproject",
                 "repo": "obs-studio",
-                "stars": 75507
-              }
+                "stars": 75533
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             },
             {
               "node_type": "item",
@@ -246,8 +258,9 @@
                 "last_commit": "2026-07-28T17:52:48Z",
                 "owner": "NickeManarin",
                 "repo": "ScreenToGif",
-                "stars": 27557
-              }
+                "stars": 27558
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             },
             {
               "node_type": "item",
@@ -258,11 +271,12 @@
                 "archived": false,
                 "id": 43975673,
                 "language": "C++",
-                "last_commit": "2026-08-27T04:00:12Z",
+                "last_commit": "2026-08-28T03:28:49Z",
                 "owner": "KDE",
                 "repo": "krita",
-                "stars": 10271
-              }
+                "stars": 10273
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             },
             {
               "node_type": "item",
@@ -273,11 +287,12 @@
                 "archived": false,
                 "id": 4537508,
                 "language": "C",
-                "last_commit": "2026-08-27T02:14:43Z",
+                "last_commit": "2026-08-28T01:56:36Z",
                 "owner": "GNOME",
                 "repo": "gimp",
-                "stars": 6378
-              }
+                "stars": 6379
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             }
           ],
           "description": "即使不是设计师/摄影师/动画师等，图像处理可能也是必备技能。",
@@ -298,8 +313,9 @@
                 "last_commit": "2026-08-17T10:27:07Z",
                 "owner": "Genymobile",
                 "repo": "scrcpy",
-                "stars": 148366
-              }
+                "stars": 148398
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             },
             {
               "node_type": "item",
@@ -314,7 +330,8 @@
                 "owner": "Mortennn",
                 "repo": "Dozer",
                 "stars": 8716
-              }
+              },
+              "first_seen": "2026-08-28T04:23:54.686Z"
             }
           ],
           "description": "一些暂时没有归类的生产力",
@@ -326,7 +343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:07.451Z",
+    "last_updated": "2026-08-28T04:23:54.686Z",
     "original_repository_info": {
       "archived": false,
       "id": 397672812,
