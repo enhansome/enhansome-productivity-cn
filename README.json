@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Preserver is desktop notes organiser built on electron, angular2, pouchDB",
+                "homepage": "http://www.hiteshbalar.com/preserver",
                 "id": 60352631,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-10-16T15:45:32Z",
+                "open_issues": 2,
                 "owner": "hsbalar",
                 "repo": "preserver",
-                "stars": 216
+                "stars": 216,
+                "topics": [
+                  "angular-2",
+                  "electron",
+                  "hacktoberfest",
+                  "pouchdb",
+                  "preserver",
+                  "typescript",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             }
@@ -35,12 +48,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MindMap software designed by PyQt5 with rich text and python synaxhighlighter.",
+                "homepage": null,
                 "id": 355405430,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-07T13:59:56Z",
+                "open_issues": 5,
                 "owner": "hobbes-ye",
                 "repo": "NodeNote",
-                "stars": 323
+                "stars": 323,
+                "topics": [
+                  "mindmap",
+                  "notes-app",
+                  "pyqt5",
+                  "python",
+                  "software"
+                ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             }
@@ -58,12 +82,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful todo list application for the console, using the todo.txt format.",
+                "homepage": null,
                 "id": 25428376,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-18T03:38:43Z",
+                "open_issues": 82,
                 "owner": "topydo",
                 "repo": "topydo",
-                "stars": 934
+                "stars": 934,
+                "topics": [
+                  "bsd",
+                  "cli",
+                  "cross-platform",
+                  "hacktoberfest",
+                  "linux",
+                  "macos",
+                  "open-source",
+                  "python",
+                  "task",
+                  "task-list",
+                  "task-manager",
+                  "todo",
+                  "todoapp",
+                  "todotxt",
+                  "tui",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -74,12 +120,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":tomato: A pomodoro app for your menubar/tray.",
+                "homepage": null,
                 "id": 84988277,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-01-28T19:08:37Z",
+                "open_issues": 22,
                 "owner": "amitmerchant1990",
                 "repo": "pomolectron",
-                "stars": 639
+                "stars": 639,
+                "topics": [
+                  "desktop",
+                  "electron",
+                  "menubar",
+                  "pomodoro",
+                  "pomodoro-timer",
+                  "productivity",
+                  "time-intervals",
+                  "tray"
+                ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             }
@@ -97,12 +157,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits",
+                "homepage": null,
                 "id": 26357991,
                 "language": "Kotlin",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-21T12:59:15Z",
+                "open_issues": 50,
                 "owner": "iSoron",
                 "repo": "uhabits",
-                "stars": 10176
+                "stars": 10176,
+                "topics": [
+                  "android",
+                  "habit-tracker",
+                  "habits",
+                  "java",
+                  "kotlin",
+                  "streak"
+                ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             }
@@ -120,12 +192,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.",
+                "homepage": "https://autohotkey.com/",
                 "id": 385065,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T05:14:42Z",
+                "open_issues": 22,
                 "owner": "AutoHotkey",
                 "repo": "AutoHotkey",
-                "stars": 13024
+                "stars": 13025,
+                "topics": [
+                  "autohotkey",
+                  "automation",
+                  "c-plus-plus",
+                  "hotkeys",
+                  "scripting",
+                  "scripting-language",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             }
@@ -143,12 +228,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+                "homepage": "https://flowlauncher.com",
                 "id": 257526212,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-26T19:40:20Z",
+                "open_issues": 303,
                 "owner": "Flow-Launcher",
                 "repo": "Flow.Launcher",
-                "stars": 15451
+                "stars": 15452,
+                "topics": [
+                  "alfred",
+                  "application-launcher",
+                  "desktop",
+                  "finder",
+                  "flow-launcher",
+                  "hacktoberfest",
+                  "keyboard-launcher",
+                  "launcher",
+                  "launchy",
+                  "listary",
+                  "plugins",
+                  "portable",
+                  "productivity",
+                  "productivity-tools",
+                  "raycast",
+                  "search",
+                  "spotlight",
+                  "windows",
+                  "wox"
+                ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -159,12 +269,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.",
+                "homepage": "https://playnite.link",
                 "id": 86182490,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-21T19:37:28Z",
+                "open_issues": 711,
                 "owner": "JosefNemec",
                 "repo": "Playnite",
-                "stars": 13848
+                "stars": 13850,
+                "topics": [
+                  "csharp",
+                  "gaming",
+                  "launcher",
+                  "wpf"
+                ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -175,12 +295,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lutris desktop client",
+                "homepage": "https://lutris.net",
                 "id": 13419223,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-22T21:07:38Z",
+                "open_issues": 304,
                 "owner": "lutris",
                 "repo": "lutris",
-                "stars": 10202
+                "stars": 10201,
+                "topics": [
+                  "game-launcher",
+                  "gaming"
+                ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             }
@@ -198,12 +326,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
+                "homepage": "https://keepassxc.org/",
                 "id": 52729242,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T16:37:46Z",
+                "open_issues": 900,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28587
+                "stars": 28587,
+                "topics": [
+                  "cross-platform",
+                  "hacktoberfest",
+                  "keepass",
+                  "keepassxc",
+                  "linux",
+                  "macos",
+                  "password",
+                  "password-manager",
+                  "privacy",
+                  "security",
+                  "windows",
+                  "yubikey"
+                ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -214,12 +360,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "绝妙的个人生产力（Awesome Productivity - Chinese version）",
+                "homepage": "https://pro.eastlakeside.cn",
                 "id": 397672812,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2022-08-08T04:06:16Z",
+                "open_issues": 16,
                 "owner": "eastlakeside",
                 "repo": "awesome-productivity-cn",
-                "stars": 2816
+                "stars": 2816,
+                "topics": [
+                  "awesome-list",
+                  "productivity",
+                  "productivity-booster"
+                ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             }
@@ -237,12 +392,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+                "homepage": "https://obsproject.com",
                 "id": 13233158,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-26T18:05:18Z",
+                "open_issues": 1167,
                 "owner": "obsproject",
                 "repo": "obs-studio",
-                "stars": 75563
+                "stars": 75569,
+                "topics": [
+                  "c",
+                  "c-plus-plus",
+                  "directshow",
+                  "facebook-live",
+                  "ffmpeg",
+                  "game-capture",
+                  "live-streaming",
+                  "screen-capture",
+                  "twitch-tv",
+                  "video-recording",
+                  "youtube-live"
+                ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -253,12 +425,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.",
+                "homepage": "http://www.screentogif.com",
                 "id": 64713769,
                 "language": "C#",
+                "license": "MS-PL",
                 "last_commit": "2026-07-28T17:52:48Z",
+                "open_issues": 331,
                 "owner": "NickeManarin",
                 "repo": "ScreenToGif",
-                "stars": 27564
+                "stars": 27565,
+                "topics": [
+                  "editor",
+                  "gif",
+                  "recorder",
+                  "sketchboard",
+                  "video",
+                  "webcam",
+                  "wpf"
+                ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -269,12 +454,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.",
+                "homepage": "https://invent.kde.org/graphics/krita",
                 "id": 43975673,
                 "language": "C++",
-                "last_commit": "2026-08-29T01:47:43Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T03:27:34Z",
+                "open_issues": 0,
                 "owner": "KDE",
                 "repo": "krita",
-                "stars": 10277
+                "stars": 10278,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -285,12 +475,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read-only mirror of https://gitlab.gnome.org/GNOME/gimp",
+                "homepage": "https://gitlab.gnome.org/GNOME/gimp",
                 "id": 4537508,
                 "language": "C",
-                "last_commit": "2026-08-29T02:49:59Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:55:44Z",
+                "open_issues": 0,
                 "owner": "GNOME",
                 "repo": "gimp",
-                "stars": 6381
+                "stars": 6382,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             }
@@ -308,12 +503,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Display and control your Android device",
+                "homepage": null,
                 "id": 111583593,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T10:27:07Z",
+                "open_issues": 2884,
                 "owner": "Genymobile",
                 "repo": "scrcpy",
-                "stars": 148463
+                "stars": 148467,
+                "topics": [
+                  "android",
+                  "c",
+                  "ffmpeg",
+                  "libav",
+                  "mirroring",
+                  "recording",
+                  "screen",
+                  "sdl2"
+                ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -324,12 +533,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hide menu bar icons on macOS",
+                "homepage": null,
                 "id": 150961965,
                 "language": "Swift",
+                "license": "MPL-2.0",
                 "last_commit": "2023-11-30T13:45:27Z",
+                "open_issues": 101,
                 "owner": "Mortennn",
                 "repo": "Dozer",
-                "stars": 8717
+                "stars": 8717,
+                "topics": [
+                  "macos",
+                  "minimalistic",
+                  "statusbar",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             }
@@ -343,15 +562,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:51:16.216Z",
+    "last_updated": "2026-08-29T04:20:44.574Z",
     "original_repository_info": {
       "archived": false,
+      "description": "绝妙的个人生产力（Awesome Productivity - Chinese version）",
+      "homepage": "https://pro.eastlakeside.cn",
       "id": 397672812,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2022-08-08T04:06:16Z",
+      "open_issues": 16,
       "owner": "eastlakeside",
       "repo": "awesome-productivity-cn",
-      "stars": 2816
+      "stars": 2816,
+      "topics": [
+        "awesome-list",
+        "productivity",
+        "productivity-booster"
+      ]
     },
     "original_repository_sha": "395c7bd7cbfa383d2bac5ef22e957966b82503a7",
     "enhanced_repository": "enhansome/enhansome-productivity-cn",
