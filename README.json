@@ -63,7 +63,7 @@
                 "last_commit": "2026-03-18T03:38:43Z",
                 "owner": "topydo",
                 "repo": "topydo",
-                "stars": 933
+                "stars": 934
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -102,7 +102,7 @@
                 "last_commit": "2026-07-21T12:59:15Z",
                 "owner": "iSoron",
                 "repo": "uhabits",
-                "stars": 10171
+                "stars": 10176
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             }
@@ -122,10 +122,10 @@
                 "archived": false,
                 "id": 385065,
                 "language": "C++",
-                "last_commit": "2026-08-16T08:29:37Z",
+                "last_commit": "2026-08-28T05:14:42Z",
                 "owner": "AutoHotkey",
                 "repo": "AutoHotkey",
-                "stars": 13020
+                "stars": 13024
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             }
@@ -148,7 +148,7 @@
                 "last_commit": "2026-08-26T19:40:20Z",
                 "owner": "Flow-Launcher",
                 "repo": "Flow.Launcher",
-                "stars": 15446
+                "stars": 15451
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -164,7 +164,7 @@
                 "last_commit": "2026-08-21T19:37:28Z",
                 "owner": "JosefNemec",
                 "repo": "Playnite",
-                "stars": 13838
+                "stars": 13848
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -180,7 +180,7 @@
                 "last_commit": "2026-08-22T21:07:38Z",
                 "owner": "lutris",
                 "repo": "lutris",
-                "stars": 10200
+                "stars": 10202
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             }
@@ -203,7 +203,7 @@
                 "last_commit": "2026-08-24T16:37:46Z",
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28573
+                "stars": 28587
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -242,7 +242,7 @@
                 "last_commit": "2026-08-26T18:05:18Z",
                 "owner": "obsproject",
                 "repo": "obs-studio",
-                "stars": 75533
+                "stars": 75563
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -258,7 +258,7 @@
                 "last_commit": "2026-07-28T17:52:48Z",
                 "owner": "NickeManarin",
                 "repo": "ScreenToGif",
-                "stars": 27558
+                "stars": 27564
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -271,10 +271,10 @@
                 "archived": false,
                 "id": 43975673,
                 "language": "C++",
-                "last_commit": "2026-08-28T03:28:49Z",
+                "last_commit": "2026-08-29T01:47:43Z",
                 "owner": "KDE",
                 "repo": "krita",
-                "stars": 10273
+                "stars": 10277
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -287,10 +287,10 @@
                 "archived": false,
                 "id": 4537508,
                 "language": "C",
-                "last_commit": "2026-08-28T01:56:36Z",
+                "last_commit": "2026-08-29T02:49:59Z",
                 "owner": "GNOME",
                 "repo": "gimp",
-                "stars": 6379
+                "stars": 6381
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             }
@@ -313,7 +313,7 @@
                 "last_commit": "2026-08-17T10:27:07Z",
                 "owner": "Genymobile",
                 "repo": "scrcpy",
-                "stars": 148398
+                "stars": 148463
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             },
@@ -329,7 +329,7 @@
                 "last_commit": "2023-11-30T13:45:27Z",
                 "owner": "Mortennn",
                 "repo": "Dozer",
-                "stars": 8716
+                "stars": 8717
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
             }
@@ -343,7 +343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:23:54.686Z",
+    "last_updated": "2026-08-29T02:51:16.216Z",
     "original_repository_info": {
       "archived": false,
       "id": 397672812,
