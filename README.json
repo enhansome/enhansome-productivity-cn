@@ -87,11 +87,11 @@
                 "id": 25428376,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-31T18:42:29Z",
-                "open_issues": 81,
+                "last_commit": "2026-09-07T21:59:49Z",
+                "open_issues": 78,
                 "owner": "topydo",
                 "repo": "topydo",
-                "stars": 933,
+                "stars": 935,
                 "topics": [
                   "bsd",
                   "cli",
@@ -166,7 +166,7 @@
                 "open_issues": 50,
                 "owner": "iSoron",
                 "repo": "uhabits",
-                "stars": 10218,
+                "stars": 10222,
                 "topics": [
                   "android",
                   "habit-tracker",
@@ -201,7 +201,7 @@
                 "open_issues": 22,
                 "owner": "AutoHotkey",
                 "repo": "AutoHotkey",
-                "stars": 13076,
+                "stars": 13083,
                 "topics": [
                   "autohotkey",
                   "automation",
@@ -234,10 +234,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-06T11:26:13Z",
-                "open_issues": 305,
+                "open_issues": 304,
                 "owner": "Flow-Launcher",
                 "repo": "Flow.Launcher",
-                "stars": 15511,
+                "stars": 15516,
                 "topics": [
                   "alfred",
                   "application-launcher",
@@ -278,7 +278,7 @@
                 "open_issues": 712,
                 "owner": "JosefNemec",
                 "repo": "Playnite",
-                "stars": 13905,
+                "stars": 13912,
                 "topics": [
                   "csharp",
                   "gaming",
@@ -304,7 +304,7 @@
                 "open_issues": 308,
                 "owner": "lutris",
                 "repo": "lutris",
-                "stars": 10220,
+                "stars": 10222,
                 "topics": [
                   "game-launcher",
                   "gaming"
@@ -331,11 +331,11 @@
                 "id": 52729242,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T10:20:15Z",
-                "open_issues": 912,
+                "last_commit": "2026-09-07T10:55:38Z",
+                "open_issues": 909,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28703,
+                "stars": 28711,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -369,7 +369,7 @@
                 "open_issues": 16,
                 "owner": "eastlakeside",
                 "repo": "awesome-productivity-cn",
-                "stars": 2814,
+                "stars": 2815,
                 "topics": [
                   "awesome-list",
                   "productivity",
@@ -398,10 +398,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-05T01:03:23Z",
-                "open_issues": 1169,
+                "open_issues": 1170,
                 "owner": "obsproject",
                 "repo": "obs-studio",
-                "stars": 75895,
+                "stars": 75929,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -434,7 +434,7 @@
                 "open_issues": 334,
                 "owner": "NickeManarin",
                 "repo": "ScreenToGif",
-                "stars": 27606,
+                "stars": 27609,
                 "topics": [
                   "editor",
                   "gif",
@@ -459,11 +459,11 @@
                 "id": 43975673,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T02:01:47Z",
+                "last_commit": "2026-09-07T11:53:49Z",
                 "open_issues": 0,
                 "owner": "KDE",
                 "repo": "krita",
-                "stars": 10321,
+                "stars": 10331,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
@@ -480,11 +480,11 @@
                 "id": 4537508,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T18:19:49Z",
+                "last_commit": "2026-09-07T21:48:22Z",
                 "open_issues": 0,
                 "owner": "GNOME",
                 "repo": "gimp",
-                "stars": 6397,
+                "stars": 6398,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
@@ -508,11 +508,11 @@
                 "id": 111583593,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T15:59:13Z",
-                "open_issues": 2900,
+                "last_commit": "2026-09-07T07:22:21Z",
+                "open_issues": 2899,
                 "owner": "Genymobile",
                 "repo": "scrcpy",
-                "stars": 149010,
+                "stars": 149089,
                 "topics": [
                   "android",
                   "c",
@@ -542,7 +542,7 @@
                 "open_issues": 101,
                 "owner": "Mortennn",
                 "repo": "Dozer",
-                "stars": 8718,
+                "stars": 8719,
                 "topics": [
                   "macos",
                   "minimalistic",
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:10:21.890Z",
+    "last_updated": "2026-09-07T22:53:50.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "绝妙的个人生产力（Awesome Productivity - Chinese version）",
@@ -574,7 +574,7 @@
       "open_issues": 16,
       "owner": "eastlakeside",
       "repo": "awesome-productivity-cn",
-      "stars": 2814,
+      "stars": 2815,
       "topics": [
         "awesome-list",
         "productivity",
