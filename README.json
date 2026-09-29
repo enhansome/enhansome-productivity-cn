@@ -166,7 +166,7 @@
                 "open_issues": 53,
                 "owner": "iSoron",
                 "repo": "uhabits",
-                "stars": 10283,
+                "stars": 10288,
                 "topics": [
                   "android",
                   "habit-tracker",
@@ -197,11 +197,11 @@
                 "id": 385065,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-26T10:49:58Z",
+                "last_commit": "2026-09-28T10:43:21Z",
                 "open_issues": 22,
                 "owner": "AutoHotkey",
                 "repo": "AutoHotkey",
-                "stars": 13207,
+                "stars": 13211,
                 "topics": [
                   "autohotkey",
                   "automation",
@@ -233,11 +233,11 @@
                 "id": 257526212,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-27T19:57:03Z",
-                "open_issues": 311,
+                "last_commit": "2026-09-28T14:00:53Z",
+                "open_issues": 310,
                 "owner": "Flow-Launcher",
                 "repo": "Flow.Launcher",
-                "stars": 15660,
+                "stars": 15668,
                 "topics": [
                   "alfred",
                   "application-launcher",
@@ -278,7 +278,7 @@
                 "open_issues": 684,
                 "owner": "JosefNemec",
                 "repo": "Playnite",
-                "stars": 14076,
+                "stars": 14087,
                 "topics": [
                   "csharp",
                   "gaming",
@@ -301,10 +301,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-27T14:07:56Z",
-                "open_issues": 313,
+                "open_issues": 312,
                 "owner": "lutris",
                 "repo": "lutris",
-                "stars": 10271,
+                "stars": 10275,
                 "topics": [
                   "game-launcher",
                   "gaming"
@@ -335,7 +335,7 @@
                 "open_issues": 899,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28992,
+                "stars": 29008,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -369,7 +369,7 @@
                 "open_issues": 18,
                 "owner": "eastlakeside",
                 "repo": "awesome-productivity-cn",
-                "stars": 2826,
+                "stars": 2828,
                 "topics": [
                   "awesome-list",
                   "productivity",
@@ -398,10 +398,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-26T01:04:19Z",
-                "open_issues": 1135,
+                "open_issues": 1145,
                 "owner": "obsproject",
                 "repo": "obs-studio",
-                "stars": 76697,
+                "stars": 76745,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -434,7 +434,7 @@
                 "open_issues": 337,
                 "owner": "NickeManarin",
                 "repo": "ScreenToGif",
-                "stars": 27707,
+                "stars": 27712,
                 "topics": [
                   "editor",
                   "gif",
@@ -459,11 +459,11 @@
                 "id": 43975673,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-27T07:51:20Z",
+                "last_commit": "2026-09-28T20:28:12Z",
                 "open_issues": 0,
                 "owner": "KDE",
                 "repo": "krita",
-                "stars": 10436,
+                "stars": 10442,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
@@ -480,11 +480,11 @@
                 "id": 4537508,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-27T22:21:03Z",
+                "last_commit": "2026-09-28T23:15:57Z",
                 "open_issues": 0,
                 "owner": "GNOME",
                 "repo": "gimp",
-                "stars": 6453,
+                "stars": 6455,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
@@ -508,15 +508,16 @@
                 "id": 111583593,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T17:00:36Z",
-                "open_issues": 2911,
+                "last_commit": "2026-09-28T22:57:22Z",
+                "open_issues": 2912,
                 "owner": "Genymobile",
                 "repo": "scrcpy",
-                "stars": 150520,
+                "stars": 150579,
                 "topics": [
                   "android",
                   "c",
                   "ffmpeg",
+                  "genyteam-system",
                   "libav",
                   "mirroring",
                   "recording",
@@ -539,10 +540,10 @@
                 "language": "Swift",
                 "license": "MPL-2.0",
                 "last_commit": "2023-11-30T13:45:27Z",
-                "open_issues": 101,
+                "open_issues": 102,
                 "owner": "Mortennn",
                 "repo": "Dozer",
-                "stars": 8722,
+                "stars": 8723,
                 "topics": [
                   "macos",
                   "minimalistic",
@@ -562,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:10:20.995Z",
+    "last_updated": "2026-09-29T00:27:04.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "绝妙的个人生产力（Awesome Productivity - Chinese version）",
@@ -574,7 +575,7 @@
       "open_issues": 18,
       "owner": "eastlakeside",
       "repo": "awesome-productivity-cn",
-      "stars": 2826,
+      "stars": 2828,
       "topics": [
         "awesome-list",
         "productivity",
