@@ -201,7 +201,7 @@
                 "open_issues": 22,
                 "owner": "AutoHotkey",
                 "repo": "AutoHotkey",
-                "stars": 13226,
+                "stars": 13225,
                 "topics": [
                   "autohotkey",
                   "automation",
@@ -278,7 +278,7 @@
                 "open_issues": 654,
                 "owner": "JosefNemec",
                 "repo": "Playnite",
-                "stars": 14106,
+                "stars": 14107,
                 "topics": [
                   "csharp",
                   "gaming",
@@ -301,7 +301,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-30T21:10:08Z",
-                "open_issues": 314,
+                "open_issues": 315,
                 "owner": "lutris",
                 "repo": "lutris",
                 "stars": 10280,
@@ -335,7 +335,7 @@
                 "open_issues": 905,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 29055,
+                "stars": 29057,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -349,31 +349,6 @@
                   "security",
                   "windows",
                   "yubikey"
-                ]
-              },
-              "first_seen": "2026-08-28T04:23:54.686Z"
-            },
-            {
-              "node_type": "item",
-              "title": "花蜜",
-              "description": "使用两个有意义的片段来生成密码，方便记忆和找回。 使用方法见讨论",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "绝妙的个人生产力（Awesome Productivity - Chinese version）",
-                "homepage": "https://pro.eastlakeside.cn",
-                "id": 397672812,
-                "language": null,
-                "license": "CC0-1.0",
-                "last_commit": "2022-08-08T04:06:16Z",
-                "open_issues": 18,
-                "owner": "eastlakeside",
-                "repo": "awesome-productivity-cn",
-                "stars": 2831,
-                "topics": [
-                  "awesome-list",
-                  "productivity",
-                  "productivity-booster"
                 ]
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
@@ -397,11 +372,11 @@
                 "id": 13233158,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-02T22:53:18Z",
+                "last_commit": "2026-10-03T01:07:16Z",
                 "open_issues": 1145,
                 "owner": "obsproject",
                 "repo": "obs-studio",
-                "stars": 76892,
+                "stars": 76897,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -431,10 +406,10 @@
                 "language": "C#",
                 "license": "MS-PL",
                 "last_commit": "2026-07-28T17:52:48Z",
-                "open_issues": 337,
+                "open_issues": 339,
                 "owner": "NickeManarin",
                 "repo": "ScreenToGif",
-                "stars": 27733,
+                "stars": 27734,
                 "topics": [
                   "editor",
                   "gif",
@@ -459,11 +434,11 @@
                 "id": 43975673,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T13:10:41Z",
+                "last_commit": "2026-10-03T01:51:37Z",
                 "open_issues": 0,
                 "owner": "KDE",
                 "repo": "krita",
-                "stars": 10467,
+                "stars": 10469,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
@@ -480,7 +455,7 @@
                 "id": 4537508,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T22:43:28Z",
+                "last_commit": "2026-10-03T02:42:13Z",
                 "open_issues": 0,
                 "owner": "GNOME",
                 "repo": "gimp",
@@ -512,7 +487,7 @@
                 "open_issues": 2913,
                 "owner": "Genymobile",
                 "repo": "scrcpy",
-                "stars": 150884,
+                "stars": 150898,
                 "topics": [
                   "android",
                   "c",
@@ -543,7 +518,7 @@
                 "open_issues": 102,
                 "owner": "Mortennn",
                 "repo": "Dozer",
-                "stars": 8722,
+                "stars": 8723,
                 "topics": [
                   "macos",
                   "minimalistic",
@@ -563,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:52:17.673Z",
+    "last_updated": "2026-10-03T05:01:19.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "绝妙的个人生产力（Awesome Productivity - Chinese version）",
