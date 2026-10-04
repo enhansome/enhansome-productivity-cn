@@ -197,11 +197,11 @@
                 "id": 385065,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-03T08:25:11Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-04T22:29:51Z",
+                "open_issues": 17,
                 "owner": "AutoHotkey",
                 "repo": "AutoHotkey",
-                "stars": 13224,
+                "stars": 13226,
                 "topics": [
                   "autohotkey",
                   "automation",
@@ -237,7 +237,7 @@
                 "open_issues": 309,
                 "owner": "Flow-Launcher",
                 "repo": "Flow.Launcher",
-                "stars": 15709,
+                "stars": 15717,
                 "topics": [
                   "alfred",
                   "application-launcher",
@@ -275,10 +275,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-29T20:29:06Z",
-                "open_issues": 655,
+                "open_issues": 656,
                 "owner": "JosefNemec",
                 "repo": "Playnite",
-                "stars": 14111,
+                "stars": 14123,
                 "topics": [
                   "csharp",
                   "gaming",
@@ -300,11 +300,11 @@
                 "id": 13419223,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T17:30:52Z",
-                "open_issues": 314,
+                "last_commit": "2026-10-04T21:24:31Z",
+                "open_issues": 317,
                 "owner": "lutris",
                 "repo": "lutris",
-                "stars": 10283,
+                "stars": 10287,
                 "topics": [
                   "game-launcher",
                   "gaming"
@@ -335,7 +335,7 @@
                 "open_issues": 906,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 29068,
+                "stars": 29085,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -372,11 +372,11 @@
                 "id": 13233158,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-03T01:07:16Z",
-                "open_issues": 1148,
+                "last_commit": "2026-10-04T01:39:14Z",
+                "open_issues": 1151,
                 "owner": "obsproject",
                 "repo": "obs-studio",
-                "stars": 76935,
+                "stars": 76960,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -409,7 +409,7 @@
                 "open_issues": 340,
                 "owner": "NickeManarin",
                 "repo": "ScreenToGif",
-                "stars": 27737,
+                "stars": 27743,
                 "topics": [
                   "editor",
                   "gif",
@@ -438,7 +438,7 @@
                 "open_issues": 0,
                 "owner": "KDE",
                 "repo": "krita",
-                "stars": 10473,
+                "stars": 10474,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
@@ -455,11 +455,11 @@
                 "id": 4537508,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T20:53:00Z",
+                "last_commit": "2026-10-04T23:18:29Z",
                 "open_issues": 0,
                 "owner": "GNOME",
                 "repo": "gimp",
-                "stars": 6470,
+                "stars": 6473,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
@@ -484,10 +484,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T09:40:48Z",
-                "open_issues": 2914,
+                "open_issues": 2915,
                 "owner": "Genymobile",
                 "repo": "scrcpy",
-                "stars": 150936,
+                "stars": 151012,
                 "topics": [
                   "android",
                   "c",
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:11:07.154Z",
+    "last_updated": "2026-10-04T23:18:49.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "绝妙的个人生产力（Awesome Productivity - Chinese version）",
@@ -550,7 +550,7 @@
       "open_issues": 18,
       "owner": "eastlakeside",
       "repo": "awesome-productivity-cn",
-      "stars": 2835,
+      "stars": 2836,
       "topics": [
         "awesome-list",
         "productivity",
