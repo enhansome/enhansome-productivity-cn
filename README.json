@@ -91,7 +91,7 @@
                 "open_issues": 77,
                 "owner": "topydo",
                 "repo": "topydo",
-                "stars": 946,
+                "stars": 947,
                 "topics": [
                   "bsd",
                   "cli",
@@ -166,7 +166,7 @@
                 "open_issues": 21,
                 "owner": "iSoron",
                 "repo": "uhabits",
-                "stars": 10447,
+                "stars": 10451,
                 "topics": [
                   "android",
                   "habit-tracker",
@@ -201,7 +201,7 @@
                 "open_issues": 16,
                 "owner": "AutoHotkey",
                 "repo": "AutoHotkey",
-                "stars": 13525,
+                "stars": 13532,
                 "topics": [
                   "autohotkey",
                   "automation",
@@ -237,7 +237,7 @@
                 "open_issues": 332,
                 "owner": "Flow-Launcher",
                 "repo": "Flow.Launcher",
-                "stars": 16080,
+                "stars": 16092,
                 "topics": [
                   "alfred",
                   "application-launcher",
@@ -278,7 +278,7 @@
                 "open_issues": 639,
                 "owner": "JosefNemec",
                 "repo": "Playnite",
-                "stars": 14585,
+                "stars": 14591,
                 "topics": [
                   "csharp",
                   "gaming",
@@ -304,7 +304,7 @@
                 "open_issues": 326,
                 "owner": "lutris",
                 "repo": "lutris",
-                "stars": 10409,
+                "stars": 10408,
                 "topics": [
                   "game-launcher",
                   "gaming",
@@ -332,11 +332,11 @@
                 "id": 52729242,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T13:46:05Z",
-                "open_issues": 1043,
+                "last_commit": "2026-11-24T16:59:12Z",
+                "open_issues": 1042,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 30120,
+                "stars": 30138,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -377,7 +377,7 @@
                 "open_issues": 1217,
                 "owner": "obsproject",
                 "repo": "obs-studio",
-                "stars": 79990,
+                "stars": 80065,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -410,7 +410,7 @@
                 "open_issues": 351,
                 "owner": "NickeManarin",
                 "repo": "ScreenToGif",
-                "stars": 27989,
+                "stars": 27995,
                 "topics": [
                   "editor",
                   "gif",
@@ -435,11 +435,11 @@
                 "id": 43975673,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T04:30:57Z",
+                "last_commit": "2026-11-25T02:31:27Z",
                 "open_issues": 0,
                 "owner": "KDE",
                 "repo": "krita",
-                "stars": 10797,
+                "stars": 10804,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
@@ -456,11 +456,11 @@
                 "id": 4537508,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T00:12:01Z",
+                "last_commit": "2026-11-25T00:26:29Z",
                 "open_issues": 0,
                 "owner": "GNOME",
                 "repo": "gimp",
-                "stars": 6619,
+                "stars": 6622,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:54.686Z"
@@ -484,11 +484,11 @@
                 "id": 111583593,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T00:19:58Z",
-                "open_issues": 2962,
+                "last_commit": "2026-11-24T20:51:39Z",
+                "open_issues": 2965,
                 "owner": "Genymobile",
                 "repo": "scrcpy",
-                "stars": 155517,
+                "stars": 155617,
                 "topics": [
                   "android",
                   "c",
@@ -519,7 +519,7 @@
                 "open_issues": 102,
                 "owner": "Mortennn",
                 "repo": "Dozer",
-                "stars": 8717,
+                "stars": 8716,
                 "topics": [
                   "macos",
                   "minimalistic",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:51:46.743Z",
+    "last_updated": "2026-11-25T03:36:00.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "绝妙的个人生产力（Awesome Productivity - Chinese version）",
@@ -548,10 +548,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2022-08-08T04:06:16Z",
-      "open_issues": 24,
+      "open_issues": 25,
       "owner": "eastlakeside",
       "repo": "awesome-productivity-cn",
-      "stars": 2859,
+      "stars": 2860,
       "topics": [
         "awesome-list",
         "productivity",
